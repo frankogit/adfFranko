@@ -1,0 +1,9 @@
+{
+	"name": "targetadfFranko",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dee577b0-cdbc-4feb-8971-7abf5295ae08",
+		"tenantId": "444a1d09-f419-4ff4-8967-f8bf224e7001"
+	}
+}
